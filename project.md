@@ -9,8 +9,21 @@
 5. Выявить пересекающуюся аудиторию в трёх пабликах
 6. Визуализировать полученную информацию 
 
-*Мы посмотрели как распределяется аудитория каждой нашей группы по городам* 
 
+### Анализ аудитории
+
+* *по месту проживания*
+   - страна
+   
+![image is here](Aigel_country.jpg)
+
+![image is here](Ira_psp_country.JPG)
+
+![image is here](Zatmenie_country.JPG)
+
+
+   - город
+   
 ![image_is_here](Aigel_city.jpg)
 
 ![image_is_here](Ira_psp_city.JPG)
@@ -18,16 +31,7 @@
 ![image_is_here](Zatmenie_city.JPG)
 
 
-*Также мы проанализировали в каких странах слушают данные группы, составив графики распределения участников по странам*
-
-![image_is_here](Aigel_country.jpg)
-
-![image_is_here](Ira_psp_country.JPG)
-
-![image_is_here](Zatmenie_country.JPG)
-
-
-*Рассмотрели аудиторию по возрасту*
+* *по возрасту*
 
 ![image_is_here](Aigel_years.JPG)
 
@@ -35,4 +39,16 @@
 
 ![image_is_here](Zatmenie_years.JPG)
 
-# Выводы
+
+* *по гендерному признаку*
+
+![image_is_here](Aigel_gender.JPG)
+
+![image_is_here](Ira_psp_gender.JPG)
+
+![image_is_here](Zatmenie_gender.JPG)
+
+
+# Выводы по 1 пункту
+
+## Исходя из 
