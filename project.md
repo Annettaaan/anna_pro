@@ -20,9 +20,9 @@
 
 *Также мы проанализировали в каких странах слушают данные группы, составив графики распределения участников по странам*
 
-![image_is_here](Countries of AIGEL band fans.jpg)
+![image_is_here](Aigel_country.jpg)
 
-![image_is_here](Countries of Ira psp fans.jpg)
+![image_is_here](Ira_psp_country.JPG)
 
 ![image_is_here](Zatmenie_country.JPG)
 
