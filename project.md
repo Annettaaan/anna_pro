@@ -26,4 +26,13 @@
 
 ![image_is_here](Zatmenie_country.JPG)
 
+
+*Рассмотрели аудиторию по возрасту*
+
+![image_is_here](Aigel_years.JPG)
+
+![image_is_here](Ira_psp_years.JPG)
+
+![image_is_here](Zatmenie_years.JPG)
+
 # Выводы
