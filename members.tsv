@@ -1069,6 +1069,7 @@
 38948060,	Vladimir	Logutov	M	-	-	-
 39015890,	Anton	Tsvirko	M	1985	Minsk	Belarus
 39051557,	Andrey	Vasin	M	1989	Glebovsky	Russia
+39081781,	Anna	Nikonorova	F	-	Saint Petersburg	Russia
 39094003,	Andrey	Safonov	M	-	Klimovsk	Russia
 39095875,	Anton	Smurov	M	1988	Magnitogorsk	Russia
 39197418,	David	Akopyan	M	-	-	-
@@ -1813,7 +1814,7 @@
 98834313,	Yulia	Kalacheva	F	1992	Dzerzhinsk	Russia
 98912151,	DELETED		M	-	-	-
 99317966,	Dasha	Kulyeva	F	-	-	-
-99601677,	Maxim	Gurov	M	-	-	-
+99601677,	Maxim	Gurov	M	-	-	Russia
 99637685,	Olya	Beskrovnaya	F	-	Saki	Ukraine
 99684963,	Alexander	Shapiro	M	-	Bobrujsk	Belarus
 99700737,	Vladimir	Pakhomov	M	-	Chernihiv	Ukraine
@@ -2880,7 +2881,7 @@
 163397689,	Andrey	Mironov	M	1998	Novosibirsk	Russia
 163448005,	Vova	Agopshuk	M	1992	Kirov	Russia
 163485556,	Alexander	Belonenko	M	-	Kerch	Russia
-163515784,	Valera	Perchik	M	-	Zlatoust	Russia
+163515784,	Valera	Perchik	M	-	-	-
 163548997,	Tatyana	Novosyolova	F	1984	Chelyabinsk	Russia
 163588412,	Artyom	Yansitov	M	-	Moscow	Russia
 163651465,	Demid	Kozhevnikov	M	1988	Saratov	Russia
@@ -3767,6 +3768,7 @@
 205523331,	Petya	Kudashov	M	1991	Leninogorsk	Russia
 205591131,	Maria	Zhurina	F	1991	Kharkiv	Ukraine
 205598744,	Ilya	Gulya	M	-	-	Ukraine
+205607257,	Iza	Mungieva	F	1997	Moscow	Russia
 205663424,	Inna	Korol	F	-	Chernihiv	Ukraine
 205672802,	Darya	Ilina	F	1994	Moscow	Russia
 205687572,	Dima	Kalugin	M	1914	Pervomaysk	Ukraine
@@ -7751,7 +7753,7 @@
 411335420,	Lyokha	Andegraund	M	-	Bishkek	Kyrgyzstan
 411554586,	Yaroslav	Pasechnikov	M	1994	Dnipropetrovsk (Dnipro)	Ukraine
 411604811,	Ilya	Ivanov	M	1970	Moscow	Russia
-411876461,	Sonya	Oelzy	F	-	-	-
+411876461,	Sonya	Өlzy	F	-	-	-
 412878062,	Meyrman	Kayrollaev	M	1998	Atyrau	Kazakhstan
 413136629,	Dimka	Demonov	M	1996	-	-
 413199068,	Dimarik	Kaspiysky	M	1991	Rostov-on-Don	Russia
@@ -8106,7 +8108,7 @@
 514435788,	Darya	Sokolova	F	-	-	-
 515105807,	Maxim	Safonov	F	1902	-	Kazakhstan
 515913996,	Kham	Kred	M	2000	Kirov	Russia
-515917410,	Mikhail	Vetrov	F	-	-	-
+515917410,	Mikhail	Vetrov	F	1978	Krasnoyarsk	Russia
 516266337,	Daniil	Romanenko	M	-	Shakhty	Russia
 517529920,	Alex	Ivanov	M	1986	Izhevsk	Russia
 517682314,	Artyom	Maslov	M	2004	-	-
